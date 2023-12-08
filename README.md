@@ -1,4 +1,4 @@
-# L'INDICE DE POSITION SOCIALE : enquête sur un indicateur controversé
+# L'INDICE DE POSITION SOCIALE : enquête sur un indicateur de mixité sociale
 ## Création et histoire de l'IPS
 L’indice de position sociale (IPS) a été créé en 2016 par la Direction de l'évaluation, de la prospective et de la performance (DEPP) du ministère de l'Éducation nationale, sur la base de données datant de 2008. En 2022, une version actualisée a été réalisée en mobilisant des données datant de 2016 et de 2020. 
 
