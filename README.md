@@ -116,7 +116,7 @@ Par ailleurs, l’IPS mis en avant dans les moteurs de recherche développés pa
 
 Comme tout exercice de quantification, l’IPS est donc un objet social qui est un le produit d’un travail de convention. Ainsi, exprimer un fait social sous la forme d’un chiffre est politique. Le choix des indicateurs et les modes de calculs sont la traduction d’un parti pris et d’une vue particulière sur ce que les concepteurs de l’IPS ont voulu représenter : la mixité et les inégalités scolaires, et les liens entre performance scolaire et origine sociale. L’indicateur peut donc être critiqué et faire l’objet de proposition d’affinage, comme le propose l’économiste Julien Grenet (entretien en annexe). 
 
-[^23]: Genevois, Silvain (2023, 17 février) _Sylvain Genevois : IPS, le regard du géographe_, Le café pédagogique, [URL :](https://www.cafepedagogique.net/2023/02/17/sylvain-genevois-ips-le-regard-du-geographe/ )
+[^23]: Genevois, Silvain (2023, 17 février) _Sylvain Genevois : IPS, le regard du géographe_, Le café pédagogique, [URL :](https://www.cafepedagogique.net/2023/02/17/sylvain-genevois-ips-le-regard-du-geographe/)
 [^24]: Maudet, Elsa "Mixité scolaire : les IPS, indices utiles ou débat stérile ?", _Libération_, 13 avril 2023.
 [^25]: (2023, 8 février), IPS, le nouvel indicateur pris en compte par le rectorat, FCPE75, [URL :](https://www.fcpe75.org/ips-le-nouvel-indicateur-pris-en-compte-par-le-rectorat/).
 [^26]: (4 février 2023), Un écart type qui change tout !, NoGhetto, [URL :](http://no-ghetto.fr/index.php/2023/02/04/un-ecart-type-qui-change-tout/)
