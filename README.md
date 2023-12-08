@@ -56,11 +56,11 @@ En termes de données, pour déterminer les valeurs IPS attribuées à chaque PC
 - Le second élément est le choix de la nomenclature PCS de la DEPP, qu’utilise les bases élèves académiques (BEA) au détriment de la nomenclature de l’Insee. L’explication relève du pratique. L’IPS est destiné à des institutions qui font appel, dans leurs travaux, aux BEA.
 
 [^3]: ROCHER Thierry, Construction d’un indice de position sociale des élèves. Éducation & formations, 2016, 90, p.5.
-[^4]: [Professions et catégories socioprofessionnelles (http://geoconfluences.ens-lyon.fr/glossaire/professions-et-categories-socioprofesionnelles-pcs)]
+[^4]: [Professions et catégories socioprofessionnelles](http://geoconfluences.ens-lyon.fr/glossaire/professions-et-categories-socioprofesionnelles-pcs)
 [^5]: ROCHER Thierry, Construction d’un indice de position sociale des élèves. Éducation & formations, 2016, 90, p.6.
 [^6]: [Télécharger la nomenclature des PCS et la table de passage PCS-IPS ](https://www.google.com/url?q=https://www.education.gouv.fr/media/158757/download&sa=D&source=docs&ust=1702029621679822&usg=AOvVaw3IX4JdD4bQMr_pypyoObQ0)        
 [^7]: _ibid_
-[^8]: [L'indice de position sociale - Ministère de l'Éducation (https://www.education.gouv.fr/l-indice-de-position-sociale-ips-357755)]
+[^8]: [L'indice de position sociale - Ministère de l'Éducation](https://www.education.gouv.fr/l-indice-de-position-sociale-ips-357755)
 [^9]: ROCHER Thierry, Construction d’un indice de position sociale des élèves. Éducation & formations, 2016, 90, p.7.
 [^10]: ROCHER Thierry, Construction d’un indice de position sociale des élèves. Éducation & formations, 2016, 90, p.9.
 [^11]: Il a été estimé plus riche et plus pertinent que celui de 2011. 29 544 élèves y ont répondu.
@@ -116,10 +116,10 @@ Par ailleurs, l’IPS mis en avant dans les moteurs de recherche développés pa
 
 Comme tout exercice de quantification, l’IPS est donc un objet social qui est un le produit d’un travail de convention. Ainsi, exprimer un fait social sous la forme d’un chiffre est politique. Le choix des indicateurs et les modes de calculs sont la traduction d’un parti pris et d’une vue particulière sur ce que les concepteurs de l’IPS ont voulu représenter : la mixité et les inégalités scolaires, et les liens entre performance scolaire et origine sociale. L’indicateur peut donc être critiqué et faire l’objet de proposition d’affinage, comme le propose l’économiste Julien Grenet (entretien en annexe). 
 
-[^23]: Genevois, Silvain (2023, 17 février) _Sylvain Genevois : IPS, le regard du géographe_, Le café pédagogique, [URL :(https://www.cafepedagogique.net/2023/02/17/sylvain-genevois-ips-le-regard-du-geographe/ )]
+[^23]: Genevois, Silvain (2023, 17 février) _Sylvain Genevois : IPS, le regard du géographe_, Le café pédagogique, [URL :](https://www.cafepedagogique.net/2023/02/17/sylvain-genevois-ips-le-regard-du-geographe/ )
 [^24]: Maudet, Elsa "Mixité scolaire : les IPS, indices utiles ou débat stérile ?", _Libération_, 13 avril 2023.
-[^25]: (2023, 8 février), IPS, le nouvel indicateur pris en compte par le rectorat, FCPE75, [URL :(https://www.fcpe75.org/ips-le-nouvel-indicateur-pris-en-compte-par-le-rectorat/)].
-[^26]: (4 février 2023), Un écart type qui change tout !, NoGhetto, [URL : (http://no-ghetto.fr/index.php/2023/02/04/un-ecart-type-qui-change-tout/)]
+[^25]: (2023, 8 février), IPS, le nouvel indicateur pris en compte par le rectorat, FCPE75, [URL :](https://www.fcpe75.org/ips-le-nouvel-indicateur-pris-en-compte-par-le-rectorat/).
+[^26]: (4 février 2023), Un écart type qui change tout !, NoGhetto, [URL :](http://no-ghetto.fr/index.php/2023/02/04/un-ecart-type-qui-change-tout/)
 
 # Annexes
 ## Entretien avec Julien Grenet, économiste, directeur de recherche au CNRS et directeur adjoint à l’Institut des politiques publiques.
