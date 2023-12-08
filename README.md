@@ -18,6 +18,39 @@ L’indice de position sociale a alors été mis en place dans le but d’élabo
 
 Mais l’utilisation de l’IPS dans les politiques éducatives suscite parfois des débats. Certains remettent en question sa capacité à saisir complètement la complexité des facteurs influençant la réussite scolaire et mettent en garde contre le risque de stigmatisation des élèves en se basant uniquement sur leur indice socio-économique. 
 
+## Comment est calculé l'IPS ? 
+
+L’indice de position sociale (IPS) est “une mesure quantitative [car] il permet de passer plus facilement du niveau de l’élève à celui de la classe ou de l’établissement scolaire”. Voilà comment Thierry Rocher - actuel sous-directeur de la Direction pour l’évaluation de la prospective et de la performance (DEPP) - justifie la mise en place de l’IPS.
+L’IPS se distingue par son caractère continu. Il n’exclut aucune valeur de son intervalle de définition. Il s’exprime entre deux extremums, 38 et 179. La valeur la plus faible correspond à l’établissement où les conditions de réussite sont les moins favorables. À l’inverse, la plus élevée illustre l’établissement où les conditions de réussite sont les plus favorables. L’IPS français moyen est de 103.
+L’IPS est une donnée déterminée à partir d’une autre donnée la PCS. Ce sigle signifie : Profession et Catégorie Sociale. Il apparaît en 2003 et “permet d’attribuer des identifiants à des groupes sociaux en fonction de leur appartenance sociale”. La date de 2003 symbolise le passage de la classification CSP à celle de PCS. Néanmoins, CSP reste d’usage dans le langage courant. La PCS est subdivisée en huit grandes catégories : 
+1. Agriculteurs et exploitants
+2. Artisans, commerçants et chefs d’entreprise
+3. Cadres et professions intellectuelles supérieures
+4. Professions intermédiaires
+5. Employés
+6. Ouvriers
+7. Retraités
+8. Autres personnes sans activité professionnelle
+Ces huit catégories sont déclinées pour obtenir 497 PCS différentes, selon la nomenclature de 2003. La PCS est “la variable centrale de description de l’origine sociale dans le champ de l’éducation”.
+
+L’IPS d’un établissement est le fruit d’une moyenne des IPS de chaque élève qui y est scolarisé. L’IPS d’un élève est déterminé en fonction de la PCS de son parent ou de son couple de parents.
+Pour calculer cette moyenne, une valeur est attribuée à la PCS. C’est à la Direction de l’évaluation de la prospective et de la performance (DEPP), que revient cette tâche. Une table de passage entre le PCS et l’IPS recense les équivalences. La DEPP a adapté la nomenclature de l’Insee aux spécificités de l’éducation. S’il existe 497 PCS différentes, seules 40 se voient attribuer une valeur. Néanmoins, 1680 valeurs sont issues des combinaisons de ces 40 valeurs : 
+- 40 pour un père seul
+- 40 pour une mère seule
+- 1600 pour les couples, issues de la combinaison des 80 autres valeurs -> 1/40*1/40 = 1/1600
+  
+La PCS varie en fonction du sexe. Par exemple, la valeur du PCS Artisan - référencée 21 dans la nomenclature - est de 92 pour le père. Or, elle est de 102 pour la mère. Cette méthode permettrait de singulariser le profil des deux parents.
+
+La valeur attribuée aux PCS retenues par la DEPP, est issue d’une moyenne pondérée de caractéristiques, ce qui en fait “un résumé quantitatif d’un certain nombre d’attributs socio-économiques”, en somme il s’agit d’une analyse des correspondances multiples (ACM).
+
+L’ACM choisit de faire intervenir ces caractéristiques familiales, qui sont les variables retenues : le diplôme des parents, les conditions matérielles, le capital culturel, l’ambition et l’implication des parents, les pratiques culturelles. Ce sont des variables dites “médiatrices”. Elles permettent d’étayer que la PCS, seule ou en elle-même, n’influe pas sur les conditions de réussite scolaire. 
+
+L’indice de chaque PCS est obtenu à la moyenne du score factoriel des variables. L’importance de chaque variable est déterminée par “l’inertie qu’elle représente parmi l’ensemble des variables retenues”.
+
+En termes de données, pour déterminer les valeurs IPS attribuées à chaque PCS, la DEPP s’est basée sur deux éléments. 
+- Pour le premier, il s’agit du panel 6e 2007 qui est une base de 35 000 élèves entrés en 6e en 2007, suivis à long terme. Ce suivi implique la confrontation à deux questionnaires, le premier en 2008 et le second en 2011. Deux variables, relevées par le questionnaire de 2008, ont été jugées pertinentes pour établir l’IPS. Ces variables sont “les pratiques culturelles” et “l’implication des parents”.
+- Le second élément est le choix de la nomenclature PCS de la DEPP, qu’utilise les bases élèves académiques (BEA) au détriment de la nomenclature de l’Insee. L’explication relève du pratique. L’IPS est destiné à des institutions qui font appel, dans leurs travaux, aux BEA.
+
 ## Que nous apprend l'IPS ?
 En étudiant l’IPS des collèges de l’année 2022-2023, on peut constater que les collèges privés sont plus favorisés et plus homogènes, tandis que les collèges publics sont défavorisés et plus socialement mixtes. 
 Sur la base de données, 6973 collèges sont recensés. Il y a 1658 collèges privés et 5315 collèges publics en France. L’IPS national moyen des collèges s’élève à 104,13. La moitié des collèges a un indice de position sociale supérieur ou égal à 103,3.
