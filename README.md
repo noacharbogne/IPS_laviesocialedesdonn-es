@@ -151,6 +151,9 @@ Les collèges privés représentent moins de 5 % des 10 % des collèges les plus
 **L’IPS est un outil statistique qui comprend un certain nombre d’incertitudes, car il est construit à partir de données récoltées auprès des parents. Ces incertitudes ont-elles un impact sur la qualité de l’outil ?**
 Il peut alors y avoir des problèmes dans le passage de la déclaration des parents au codage statistiques : ce type d’incertitudes est plus élevé pour les enfants issus de catégories populaires. C’est un défaut inévitable que l’on retrouve dans toutes les enquêtes statistiques, mais qui n’altère pas la qualité de l’IPS. On peut craindre que des établissements à l’IPS élevé se servent de cela à leur avantage. 
 
+## Variables de l'IPS
+[Annexe-Thierry-Rocher-Tableau-des-variables-de-lACM.pdf](https://github.com/noacharbogne/IPS_laviesocialedesdonnes/files/13615026/Annexe-Thierry-Rocher-Tableau-des-variables-de-lACM.pdf)
+
 
 
 
